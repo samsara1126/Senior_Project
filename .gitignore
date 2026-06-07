@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.gguf
+
+# Node
+node_modules/
+dist/
+.eslintcache
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend specific
+backend/__pycache__/
+backend/ai_pipeline/models/*.gguf
+
+# Frontend specific
+frontend/node_modules/
+frontend/dist/
+frontend/.env

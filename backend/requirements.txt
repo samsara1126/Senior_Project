@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+newspaper3k
+pillow
+requests
+llama-cpp-python
+lxml[html_clean]
+beautifulsoup4
